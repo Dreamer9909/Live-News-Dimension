@@ -1,1 +1,1 @@
-Hello this is the live news dimension
+Hello this is the Unity playground dimension 
